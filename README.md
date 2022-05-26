@@ -1,13 +1,10 @@
 # Blockchain Based Dynamic Spectrum Sharing
 
-## Indian Institute of Information Technology Guwahati
+# Indian Institute of Information Technology Guwahati
 ## Department:- Electronics And Communication Engineering
-## Batch:- 2018-2022
-## Members:-
-ARPIT KUMAR(1801026)
-ADITYA VIKRAM(1801009)
-
 ## Guide:- Associate Prof. Sudip Biswas 
+#### Batch:- 2018-2022
+#### Members:- ARPIT KUMAR(1801026) ADITYA VIKRAM(1801009)
 
 ### Dynamic Spectrum Sharing(DSS):-
 -> It is an advanced feature that Enables both 4G & 5G to be simultaneously deployed and co-exist in a single carrier.
