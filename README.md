@@ -127,4 +127,4 @@ Autonomous vehicles require low latency, reliable trusted data sources and trans
 
 The blockchain technology written in Smart Contract has the advantages of enabling intelligent settlement, value transfer and resource sharing, which provides a new secure and trusted platform for the Dynamic Spectrum Sharing System.
 
-NOTE:- Although project was over as per semester timing, i'm still looking into bridging the gap between Telecommunication world with Blockchain. So i'll be updating my work here.
+## PS:- Although project was over as per semester timing, i'm still looking into bridging the gap between Telecommunication world with Blockchain. So i'll be updating my work here.
